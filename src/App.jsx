@@ -1,6 +1,6 @@
 // App.jsx
 import { useState, useRef, useEffect } from "react";
-import Button from "./Button";
+import Button from "./button";
 import image from "./assets/asd.jpg";
 
 // Array of flashing messages
